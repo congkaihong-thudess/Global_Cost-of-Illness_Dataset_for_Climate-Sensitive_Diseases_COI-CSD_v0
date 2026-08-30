@@ -12,14 +12,16 @@ Each abstract is independently screened three times per step; records passing â‰
 
 ## Code Files
 
+(R version)
 | File | Description |
 |---|---|
-(R version)
 | `screen_01_diseases.r` | Step 1 |
 | `screen_02_economic.r` | Step 2 |
 | `screen_03_actual.r` | Step 3 |
 
 (Python version)
+| File | Description |
+|---|---|
 | `screen_01_diseases.py` | Step 1 |
 | `screen_02_economic.py` | Step 2 |
 | `screen_03_actual.py` | Step 3 |

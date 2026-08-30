@@ -78,8 +78,8 @@ For the complete field list and definitions, see data/data_dictionary.csv or man
 ## 📝 Citation
 If you use this dataset or code in your research, please cite the manuscript:
 
-**Hong, C. et al. A global dataset of cost-of-illness for climate-sensitive diseases through automated literature extraction. [Pending] (2026).**
-[URL]
+> Hong, C. et al. A global dataset of cost-of-illness for climate-sensitive diseases through automated literature extraction. [Pending] (2026).
+> [URL]
 
 ---
 

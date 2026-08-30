@@ -32,7 +32,7 @@ We applied a five-step pipeline to build this dataset:
 4. **Harmonization** – Standardized disease names to GBD hierarchies, unified statistical calibers (per patient per year / per incident), categorized insurance and treatment types per SHA and NHA frameworks, and converted all values to constant 2024 USD using World Bank CPI and exchange rates.
 5. **Confidence Scoring** – Applied a three-tier confidence framework (Evidence, Agreement, Credibility) adapted from IPCC to each type of cost, enabling transparent quality assessment.
 
-![Research Flow](docs/figure5_research_flow.png)
+![Research Flow](Supplementary_materials/Figures/Figure_5_compress.jpg)
 
 *Figure: Overview of the research pipeline (manuscript Figure 5).*
 
@@ -84,28 +84,25 @@ If you use this dataset or code in your research, please cite the manuscript:
 ---
 
 ## 🙏 Acknowledgments
-This research is funded by the National Natural Science Foundation of China (No. 72403022) and the Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China (No. JYB2025XDXM905). We appreciate Yang Yang (School of Nursing, Peking University) for curating the research data. We thank the developers of DeepSeek, PubMed, Scopus, and Web of Science for providing the infrastructure enabling this research. We also acknowledge the global research community whose primary COI studies made this dataset possible.
+This research is funded by the National Natural Science Foundation of China (No. 72403022) and the Fundamental and Interdisciplinary Disciplines Breakthrough Plan of the Ministry of Education of China (No. JYB2025XDXM905). 
+
+We appreciate Yang Yang (School of Nursing, Peking University) for curating the research data. 
+
+We thank the developers of DeepSeek, PubMed, Scopus, and Web of Science for providing the infrastructure enabling this research. We also acknowledge the global research community whose primary COI studies made this dataset possible.
 
 ---
 
 ## 🤝 Contributing
 **We welcome contributions!** Please see CONTRIBUTING.md for guidelines. You can:
-
-Submit new COI estimates from recent publications;
-
-Report data errors or suggest corrections;
-
-Improve extraction prompts or harmonization logic;
-
-Extend the dataset to underrepresented regions or diseases;
-
+- Submit new COI estimates from recent publications;
+- Report data errors or suggest corrections;
+- Improve extraction prompts or harmonization logic;
+- Extend the dataset to underrepresented regions or diseases;
 .....
 
 ---
 
 ## 📧 Contact
 For questions, please open a GitHub Issue or contact the first author & the corresponding author:
-
-First author: Congkai Hong, hck24@mails.tsinghua.edu.cn, Department of Earth System Science, Tsinghua University
-
-Corresponding author: Wenjia Cai, wcai@tsinghua.edu.cn, Department of Earth System Science, Tsinghua University
+- First author: Congkai Hong, hck24@mails.tsinghua.edu.cn, Department of Earth System Science, Tsinghua University
+- Corresponding author: Wenjia Cai, wcai@tsinghua.edu.cn, Department of Earth System Science, Tsinghua University
